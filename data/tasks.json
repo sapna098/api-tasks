@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete React Assignment",
+      "description": "Finish To-Do app UI and submit before deadline",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Buy Groceries",
+      "description": "Milk, Bread, Fruits, Vegetables",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Workout",
+      "description": "30 minutes cardio and 15 minutes yoga",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Read Book",
+      "description": "Read 20 pages of a novel",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Prepare Presentation",
+      "description": "Create slides for project demo",
+      "completed": false
+    }
+  ]
+}
