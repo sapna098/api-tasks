@@ -28,3 +28,9 @@ npm i nodemon
 npm run dev
 
 To restore node_modules and package-lock.json => npm i/npm install
+
+npm i mongoose
+
+npm i mongodb
+
+npm i dotenv
